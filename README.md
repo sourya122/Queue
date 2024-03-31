@@ -6,4 +6,10 @@ Basic Operations of Queue Data Structure
 1. Insert/Enqueue = Insert an element in the queue.
 2. Delete/dequeue = Delete an element from the queue.
 3. Display = Display the whole queue.
-4. E 
+4. Exit = Exit from the queue.
+
+Applications of queue:
+1. Task scheduling in operating systems
+2. Data transfer in network communication
+3. Simulation of real-world systems (e.g., waiting lines)
+4. Priority queues for event processing queues for event processing
